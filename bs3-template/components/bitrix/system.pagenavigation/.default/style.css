@@ -1,0 +1,15 @@
+.od-pagination{ text-align: center;}
+.od-pagination .nav-title{ color: #777;}
+.od-pagination .nav-page{ margin: 5px 0;}
+.od-pagination .nav-page a{ display: inline-block; padding: 3px 9px; border-radius: 3px; vertical-align: top; height: 28px;}
+.od-pagination .nav-page span{ display: inline-block; padding: 3px 9px; border-radius: 3px; vertical-align: top; height: 28px;}
+.od-pagination .nav-page .cur-page{ border: 1px solid #d82032; border-radius: 3px;}
+.od-pagination .nav-page .num-page{ color: #313131; border: 1px solid #cccccc; border-radius: 3px;}
+.od-pagination .nav-page a.prev-page{ width: 28px; height: 28px; background: url(img/nav-left.png) no-repeat 50% 50%;}
+.od-pagination .nav-page a.start-page{ width: 28px; height: 28px; background: url(img/nav-left-2.png) no-repeat 50% 50%;}
+.od-pagination .nav-page a.next-page{ width: 28px; height: 28px; background: url(img/nav-right.png) no-repeat 50% 50%;}
+.od-pagination .nav-page a.end-page{ width: 28px; height: 28px; background: url(img/nav-right-2.png) no-repeat 50% 50%;}
+.od-pagination .nav-page span.prev-page{ width: 28px; height: 28px; background: url(img/nav-left-sp.png) no-repeat 50% 50%;}
+.od-pagination .nav-page span.start-page{ width: 28px; height: 28px; background: url(img/nav-left-2-sp.png) no-repeat 50% 50%;}
+.od-pagination .nav-page span.next-page{ width: 28px; height: 28px; background: url(img/nav-right-sp.png) no-repeat 50% 50%;}
+.od-pagination .nav-page span.end-page{ width: 28px; height: 28px; background: url(img/nav-right-2-sp.png) no-repeat 50% 50%;}

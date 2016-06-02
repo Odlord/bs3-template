@@ -1,0 +1,43 @@
+
+/* slick main slider */
+.main-slider .main-slider-prev, .main-slider .main-slider-next {
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    display: block;
+    width: 34px;
+    height: 103px;
+    margin-top: -51px;
+    padding: 0px;
+    cursor: pointer;
+    color: #fff;
+    border: medium none;
+    outline: medium none;
+    background: url('img/arr-main-slider.png');
+}
+.main-slider .main-slider-prev{ left: 5%; background-position: 0% 0%;}
+.main-slider .main-slider-next{ right: 5%; background-position: 100% 0%;}
+
+/* fancybox form */
+.ask-question-form{ display: none;}
+
+/* Адаптивность */
+@media (min-width: 992px) and (max-width: 1199px) {
+
+}
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+@media (max-width: 767px) {
+
+}
+
+@media (min-width: 768px) {
+
+}
+@media (min-width: 992px) {
+
+}
+@media (min-width: 1200px) {
+  
+}
